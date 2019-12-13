@@ -28,11 +28,13 @@
         <div class="asus container"></div>
         <h1>Ecommerce</h1>
         <p>Just try to build an example website Ecommerce</p>
+        
         <div class="hero-button">
-            <a href="#" class="button button-white">button 1</a>
-            <a href="#" class="button button-white">button 2</a>
+            <a href="#" class="button ">button 1</a>
+            <a href="#" class="button ">button 2</a>
         </div>
-        <div class="asus-image">
+        
+        <div class="hero-image text-center">
             <img src="img/Asus Zenbook.png" alt="Asus Zenbook">
         </div>
         {{-- end asus Zenbook --}}
@@ -47,7 +49,8 @@
                 <a href="#" class="button">Featured</a>
                 <a href="#" class="button">On Sale</a>
                 
-                <div class="product text-center">
+                
+                <div class="product text-left">
                     <div class="product">
                         <a href="#"><img src="img/Asus Zenbook.png" alt="product Asus Zenbook"></a>
                         <a href="#"><div class="product-name">Asus Zenbook</div></a>
@@ -105,6 +108,7 @@
 
                 <div class="blog-posts">
                     <div class="blog-post" id="blog1">
+                        <a href="#"><img src="" alt=""></a>
 
                     </div>
                 </div>
