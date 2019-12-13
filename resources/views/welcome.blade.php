@@ -101,19 +101,38 @@
         </div> 
         {{-- end feature section --}}
 
-        <div class="blog-section">
-            <div class="container">
-                <h1 class="text-center">From Our Blog</h1>
-                <p class="section-description text-center">Lorem, ipsum dolor sit amet consectetur adipisicing elit. Cupiditate, quibusdam?</p>
-
-                <div class="blog-posts">
+         <div class="blog-posts">
                     <div class="blog-post" id="blog1">
-                        <a href="#"><img src="" alt=""></a>
-
+                        <a href="#"><img src="img/blog1.jpg" alt="blog image"></a>
+                        <a href="#"><h2 class="blog-title">Blog Post Title 1</h2></a>
+                        <div class="blog-description">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est ullam, ipsa quasi?</div>
                     </div>
-                </div>
-            </div>
-        </div>
+                    <div class="blog-post" id="blog2">
+                        <a href="#"><img src="img/blog2.jpg" alt="blog image"></a>
+                        <a href="#"><h2 class="blog-title">Blog Post Title 2</h2></a>
+                        <div class="blog-description">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est ullam, ipsa quasi?</div>
+                    </div>
+                    <div class="blog-post" id="blog3">
+                        <a href="#"><img src="img/blog3.jpg" alt="blog image"></a>
+                        <a href="#"><h2 class="blog-title">Blog Post Title 3</h2></a>
+                        <div class="blog-description">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est ullam, ipsa quasi?</div>
+                    </div>
+                </div> <!-- end blog-posts -->
+            </div> <!-- end container -->
+        </div> <!-- end blog-section -->
+
+        <footer>
+            <div class="footer-content container">
+                
+                <ul>
+                    <li>Follow Me:</li>
+                    <li><a href="#"><i class="fa fa-globe"></i></a></li>
+                    <li><a href="#"><i class="fa fa-youtube"></i></a></li>
+                    <li><a href="#"><i class="fa fa-github"></i></a></li>
+                    <li><a href="#"><i class="fa fa-twitter"></i></a></li>
+                </ul>
+            </div> <!-- end footer-content -->
+        </footer>
 
     </body>
 </html>
