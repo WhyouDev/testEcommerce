@@ -16,7 +16,7 @@
     </head>
     <body>
         <div class="top-nav container">
-            <div class="logo">Ecommerc</div>
+            <div class="logo">Ecommerce</div>
                 <ul>
                     <li><a href="#">Shop</a></li>
                     <li><a href="#">About</a></li>
