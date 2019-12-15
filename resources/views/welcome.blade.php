@@ -23,9 +23,9 @@
                     <li><a href="#">Blog</a></li>
                     <li><a href="#">Cart</a></li>
                 </ul>
-            {{-- end top-nav  --}}
+            <!-- {{-- end top-nav  --}} -->
         </div>
-        <div class="asus container"></div>
+        <div class="hero container"></div>
         <h1>Ecommerce</h1>
         <p>Just try to build an example website Ecommerce</p>
         
@@ -37,7 +37,7 @@
         <div class="hero-image text-center">
             <img src="img/Asus Zenbook.png" alt="Asus Zenbook">
         </div>
-        {{-- end asus Zenbook --}}
+        <!-- {{-- end asus Zenbook --}} -->
 
         <div class="featured-section">
             <div class="container">
@@ -91,15 +91,15 @@
                         <a href="#"><div class="product-name">Asus Zenbook</div></a>
                         <div class="product-price">Rp. 15.000.000</div>
                     </div>
-                    {{-- </div> end product --}}
-                
+                         </div> 
+                        <!-- end product -->
                     <div class="text-center button-container">
                         <a href="#" class="button">View more product</a>
                     </div>
             </div>  
-            {{-- end container  --}}
+            <!-- {{-- end container  --}} -->
         </div> 
-        {{-- end feature section --}}
+        <!-- {{-- end feature section --}} -->
 
          <div class="blog-posts">
                     <div class="blog-post" id="blog1">
@@ -123,7 +123,7 @@
 
         <footer>
             <div class="footer-content container">
-                
+            <div class="made-with">Made by I Wahyu R </div>
                 <ul>
                     <li>Follow Me:</li>
                     <li><a href="#"><i class="fa fa-globe"></i></a></li>
